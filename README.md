@@ -85,19 +85,19 @@ The process of our analysis will be by the following step: Define our Business q
            
   * Cost function :- 
   
-      1. Absolute Error :- 
+     1. Absolute  Error :- 
       
-       Absolute Error is the amount of error in your measurements. It is the difference between the measured value and “true” value. For        example, if a scale states 90 pounds but you know your true weight is 89 pounds, then the scale has an absolute error of 90 lbs –        89 lbs = 1 lbs.
+         Absolute Error is the amount of error in your measurements. It is the difference between the measured value and “true” value.            For example, if a scale states 90 pounds but you know your true weight is 89 pounds, then the scale has an absolute error of 90          lbs – 89 lbs = 1 lbs.
 
-       This can be caused by your scale not measuring the exact amount you are trying to measure. For example, your scale may be                accurate to the nearest pound. If you weigh 89.6 lbs, the scale may “round up” and give you 90 lbs. In this case the absolute            error is 90 lbs – 89.6 lbs = .4 lbs.
+         This can be caused by your scale not measuring the exact amount you are trying to measure. For example, your scale may be                accurate to the nearest pound. If you weigh 89.6 lbs, the scale may “round up” and give you 90 lbs. In this case the absolute            error is 90 lbs – 89.6 lbs = .4 lbs.
        
-       Reference :- [here](https://www.statisticshowto.com/absolute-error/)
+         Reference :- [here](https://www.statisticshowto.com/absolute-error/)
      
-     2. Mean absolute percentage error :-
+     2.  Mean absolute percentage error :-
      
-        The mean absolute percentage error (MAPE), also known as mean absolute percentage deviation (MAPD), is a measure of prediction           accuracy of a forecasting method in statistics, for example in trend estimation, also used as a loss function for regression             problems in machine learning.
+         The mean absolute percentage error (MAPE), also known as mean absolute percentage deviation (MAPD), is a measure of prediction          accuracy of a forecasting method in statistics, for example in trend estimation, also used as a loss function for regression            problems in machine learning.
         
-        Reference :- [here](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error)
+         Reference :- [here](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error)
                            
 # Results
 The main results of the code can be found at the post available [here](https://medium.com/@rabhimanyu509/starbucks-project-9ca045b6a66c).

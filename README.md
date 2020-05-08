@@ -79,8 +79,9 @@ The process of our analysis will be by the following step: Define our Business q
    Since we have a simple classification problem, I will use accuracy to evaluate my models. We want to see how well our                    model by seeing the number of correct predictions vs total number of predicitons.
    Why choose accuracy? First let's define accuracy, the ratio of the correctly labeled subjects to the whole pool of subjects. Also,      accuracy answers questions like: How many students did we correctly label out of all the students? It's similar to our situation        right? because we want to see how many customers use Starbucks offers. Furthermore, Accuracy = (TP+TN)/(TP+FP+FN+TN). Not to forget,    that this is a simple classification problem, so this is my opinion and reasoning on why to use the easiest (accuracy).
    
-   Reference :  First [here]( https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124)
-                second [here]( https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
+   Reference : 
+           * First [here]( https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124)
+           * second [here]( https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
                            
 # Results
 The main results of the code can be found at the post available [here](https://medium.com/@rabhimanyu509/starbucks-project-9ca045b6a66c).

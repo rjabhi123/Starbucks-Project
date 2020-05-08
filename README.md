@@ -74,6 +74,13 @@ The process of our analysis will be by the following step: Define our Business q
    * Model Improvements :- After using Grid Search with Logistic Regression we managed to get better results.
    * Conclusion :- In this project, I tried to analyze and make model to predict the best offer to give a Starbucks customer. First I                      explored the data and see what I have to change before start the analysis. Then I did some exploratory analysis on                      the data after cleaning. After that I trained the data, then choose one model and improved it to get better results.                    In conclusion, I think that Starbucks needs to focus more on adults and Males. Also, offer more BOGO and discounts to                    their customers.
    * Improvements :- I got to a point where I had good results and a good understanding of the data. But to make our results even                            better, I tried to improve my data collection and fixed issues which i had with NaN values. I took even more data                        like location and branch along with time when the transaction were completed. All these data can help us know when                      and where to give our offers.
+   
+   ## Metrics : -
+   Since we have a simple classification problem, I will use accuracy to evaluate my models. We want to see how well our                    model by seeing the number of correct predictions vs total number of predicitons.
+   Why choose accuracy? First let's define accuracy, the ratio of the correctly labeled subjects to the whole pool of subjects. Also,      accuracy answers questions like: How many students did we correctly label out of all the students? It's similar to our situation        right? because we want to see how many customers use Starbucks offers. Furthermore, Accuracy = (TP+TN)/(TP+FP+FN+TN). Not to forget,    that this is a simple classification problem, so this is my opinion and reasoning on why to use the easiest (accuracy).
+   
+   Reference :  First [here](: https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124)
+                second [here]( https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
                            
 # Results
 The main results of the code can be found at the post available [here](https://medium.com/@rabhimanyu509/starbucks-project-9ca045b6a66c).

@@ -1,5 +1,5 @@
 # Udacity-Starbucks-Capstone-Project
-This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
+ This repository has all the code and report for my Udacity Starbucks Capstone Project Capstone project.
 
 # Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:

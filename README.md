@@ -103,5 +103,5 @@ The process of our analysis will be by the following step: Define our Business q
 The main results of the code can be found at the post available [here](https://medium.com/@rabhimanyu509/starbucks-project-9ca045b6a66c).
   
 # Acknowledgements
-I want to thank the Udacity Data Science Nano-Degree Program for giving me this opportunity to do the project.
+I want to thank the Udacity Machine Learning Engineer Nano-Degree Program for giving me this opportunity to do the project.
 

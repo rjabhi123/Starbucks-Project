@@ -1,5 +1,5 @@
-# Udacity-Starbucks-Capstone-Project
- This repository has all the code and report for my Udacity Starbucks Capstone Project Capstone project.
+# Starbucks-Capstone-Project
+ This repository has all the code and report for my Starbucks Capstone Project project.
 
 # Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
@@ -102,6 +102,4 @@ The process of our analysis will be by the following step: Define our Business q
 # Results
 The main results of the code can be found at the post available [here](https://medium.com/@rabhimanyu509/starbucks-project-9ca045b6a66c).
   
-# Acknowledgements
-I want to thank the Udacity Machine Learning Engineer Nano-Degree Program for giving me this opportunity to do the project.
 
